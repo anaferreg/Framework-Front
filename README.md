@@ -36,7 +36,7 @@ Sistema completo para sellers gerenciarem produtos, estoque, vendas e relatório
 python run.py
 ```
 
-API disponível em: `http://127.0.0.1:5000`
+API disponível em: `http://127.0.0.1:8080`
 
 ---
 
@@ -76,9 +76,3 @@ Frontend disponível em: `http://localhost:5173`
 7. Visualiza dashboard com métricas
 
 ---
-
-
-
----
-
-## 👨‍💻 Desenvolvido por
